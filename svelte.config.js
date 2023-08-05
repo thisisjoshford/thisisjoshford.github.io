@@ -19,7 +19,7 @@ const config = {
   
     }),
     paths: {
-      base: dev ? '' : '/thisisjoshford.github.io/',
+      base: dev ? '' : 'thisisjoshford.github.io',
   },
   },
 };
