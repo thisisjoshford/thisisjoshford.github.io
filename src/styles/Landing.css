@@ -52,7 +52,7 @@ h2 {
 
 .landing-image {
   max-width: 600px;
-  width: 90%;
+  width: 60%;
   height: auto;
   filter: drop-shadow(0 0 20px rgba(125, 249, 255, 0.3)); /* Back to cyan glow */
   margin: 1rem 0;
